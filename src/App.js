@@ -2,6 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Home from './Components/Home';
+import Forms from './Components/Forms';
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
     
        <Home/>
     
-     
+     <Forms/>
     </div>
   );
 }

@@ -42,7 +42,6 @@ class Home extends Component{
  <img src='src/Components/nautilus_mockup-master/assets/clover_card.jpg'></img>
 
 
-
            </div>
            
 
