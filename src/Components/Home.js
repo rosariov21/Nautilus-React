@@ -4,7 +4,8 @@ class Home extends Component{
     render(){
         return(
            <div>
-    
+   
+
  <h2 class='site logo'>Catalysts</h2>
  <p>Agents of change</p>
  <a href="catalysts/catalysts" class="button">Read More</a>
