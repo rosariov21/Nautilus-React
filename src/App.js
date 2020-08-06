@@ -3,6 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import Home from './Components/Home';
 import Forms from './Components/Forms';
+import Articles from './Components/Articles';
 
 function App() {
   return (
@@ -10,7 +11,7 @@ function App() {
     
     
        <Home/>
-    
+    <Articles/>
      <Forms/>
     </div>
   );

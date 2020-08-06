@@ -39,7 +39,7 @@ class Home extends Component{
      </ul>
  </nav>
  <img class="print-render psite-logo" src="http://nautilus-prod.s3.amazonaws.com/nautilus-logo-print.png"></img>
- <img src='src/Components/nautilus_mockup-master/assets/clover_card.jpg'></img>
+ <img src='src/Components/nautilus_mockup-master/assets/clover_card.jpg'/> 
 
 
            </div>
