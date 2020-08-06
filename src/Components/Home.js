@@ -4,7 +4,14 @@ class Home extends Component{
     render(){
         return(
            <div>
- <h2 class='site logo'>...</h2>
+ <h2 class='site logo'>Catalystys</h2>
+ <p>Agents of change</p>
+ <a href="catalysts/catalysts" class="button">Read Issue Overview</a>
+ </div>
+
+
+
+
  <img src='src/Components/nautilus_mockup-master/assets/matches.png'/>
  <nav className='NAVIGATION'>
      <ul>
