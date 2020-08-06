@@ -7,11 +7,11 @@ class Home extends Component{
  <h2 class='site logo'>Catalystys</h2>
  <p>Agents of change</p>
  <a href="catalysts/catalysts" class="button">Read Issue Overview</a>
- </div>
 
-<h2 class="chapter-number">Chapter one</h2>
+
+<h2>Chapter one</h2>
 <h3 class="chapter-title">Art</h3>
-<p class="chapter-meta">Published December 05, 2019</p>
+<p>Published December 05,2019</p>
 
  <img src='src/Components/nautilus_mockup-master/assets/matches.png'/>
  <nav className='NAVIGATION'>
