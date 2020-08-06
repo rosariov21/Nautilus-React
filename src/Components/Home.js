@@ -14,7 +14,7 @@ class Home extends Component{
 <h3 class="chapter-title">Art</h3>
 <p>Published December 05,2019</p>
 
- <img src='src/Components/nautilus_mockup-master/assets/matches.png'/>
+ <img src='src/Components/nautilus_mockup-master/assets/matches.png'alt="pic"/>
  <nav className='NAVIGATION'>
 <ul>
          <li>
