@@ -9,12 +9,13 @@ class Home extends Component{
  <a href="catalysts/catalysts" class="button">Read Issue Overview</a>
  </div>
 
-
-
+<h2 class="chapter-number">Chapter one</h2>
+<h3 class="chapter-title">Art</h3>
+<p class="chapter-meta">Published December 05, 2019</p>
 
  <img src='src/Components/nautilus_mockup-master/assets/matches.png'/>
  <nav className='NAVIGATION'>
-     <ul>
+<ul>
          <li>
              <a href='issues'>ISSUES</a>
          </li>
@@ -38,7 +39,7 @@ class Home extends Component{
            </div>
      
         )
-    }
+    };
 }
 
 
