@@ -4,9 +4,10 @@ class Home extends Component{
     render(){
         return(
            <div>
- <h2 class='site logo'>Catalystys</h2>
+    
+ <h2 class='site logo'>Catalysts</h2>
  <p>Agents of change</p>
- <a href="catalysts/catalysts" class="button">Read Issue Overview</a>
+ <a href="catalysts/catalysts" class="button">Read More</a>
 
 
 <h2>Chapter one</h2>
@@ -32,11 +33,20 @@ class Home extends Component{
              </li>
 
          </li>
+         <li>
+        
+         </li>
      </ul>
  </nav>
- <img src='src/Components/nautilus_mockup-master/assets/clover_card.jpg'/>
+ <img class="print-render psite-logo" src="http://nautilus-prod.s3.amazonaws.com/nautilus-logo-print.png"></img>
+ <img src='src/Components/nautilus_mockup-master/assets/clover_card.jpg'></img>
+
+
 
            </div>
+           
+
+          
      
         )
     };
