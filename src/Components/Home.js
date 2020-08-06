@@ -26,6 +26,7 @@ class Home extends Component{
          </li>
      </ul>
  </nav>
+ <img src='src/Components/nautilus_mockup-master/assets/clover_card.jpg'/>
 
            </div>
      
